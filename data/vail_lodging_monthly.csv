@@ -1,0 +1,190 @@
+month,lodging_sales_tax,tax_rate,source_report,source_url
+2010-05,42999,0.04,2011_May_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329773
+2010-06,175523,0.04,2011_June_2ndQtr_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329772
+2010-07,285820,0.04,2011_July_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329771
+2010-08,250201,0.04,2011_August_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329769
+2010-09,143504,0.04,2011_September_3rdQtr_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329776
+2010-10,120462,0.04,2011_October_Summer_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329775
+2010-11,116407,0.04,2011_November_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329774
+2010-12,984143,0.04,2011_December_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329770
+2011-01,1049884,0.04,2012_January_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329781
+2011-02,1151526,0.04,2012_February_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329780
+2011-03,1244122,0.04,2012_March_1stQtr_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329784
+2011-04,281463,0.04,2012_April_Skiseason_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329777
+2011-05,60012,0.04,2012_May_VRR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329785
+2011-06,210859,0.04,2012_June_2ndQtr_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329783
+2011-07,386954,0.04,2012_July_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329782
+2011-08,323871,0.04,2012_August_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329778
+2011-09,161587,0.04,2012_September_3rdQtr_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329788
+2011-10,103474,0.04,2012_October_Summer_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329787
+2011-11,157853,0.04,2012_November_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329786
+2011-12,1155676,0.04,2012_December_Year_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329779
+2012-01,1129095,0.04,2013_January_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329793
+2012-02,1227055,0.04,2013_February_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329792
+2012-03,1296611,0.04,2013_March_1stQtr_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329796
+2012-04,308598,0.04,2013_April_Skiseason_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329789
+2012-05,67735,0.04,2013_May_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329797
+2012-06,239012,0.04,2013_June_2ndQtr_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329795
+2012-07,421490,0.04,2013_July_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329794
+2012-08,366952,0.04,2013_August_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329790
+2012-09,215979,0.04,2013_September_3rd Qtr_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329800
+2012-10,106368,0.04,2013_October_Summer_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329799
+2012-11,183352,0.04,2013_November_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329798
+2012-12,1055600,0.04,2013_December_YTD_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329791
+2013-01,1276194,0.04,2014_January_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329805
+2013-02,1376845,0.04,2014_February_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329804
+2013-03,1488302,0.04,2014_March_1stQtr_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329808
+2013-04,246661,0.04,2014_April_SkiSeason_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329801
+2013-05,88054,0.04,2014_May_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329809
+2013-06,237142,0.04,2014_June_2ndQtr_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329807
+2013-07,440682,0.04,2014_July_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329806
+2013-08,380551,0.04,2014_August_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329802
+2013-09,230495,0.04,2014_September_3rdQtr_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329812
+2013-10,164533,0.04,2014_October_Summer_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329811
+2013-11,215550,0.04,2014_November_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329810
+2013-12,1271406,0.04,2014_December_YTD_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329803
+2014-01,1441994,0.04,2015_January_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329813
+2014-02,1424211,0.04,2014_February_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329804
+2014-03,1614920,0.04,2014_March_1stQtr_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329808
+2014-04,298328,0.04,2014_April_SkiSeason_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329801
+2014-05,92891,0.04,2014_May_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329809
+2014-06,292530,0.04,2014_June_2ndQtr_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329807
+2014-07,500714,0.04,2014_July_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329806
+2014-08,450788,0.04,2014_August_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329802
+2014-09,231116,0.04,2014_September_3rdQtr_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329812
+2014-10,121925,0.04,2014_October_Summer_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329811
+2014-11,213490,0.04,2014_November_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329810
+2014-12,1429563,0.04,2014_December_YTD_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329803
+2015-01,1522251,0.04,2015_January_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=329813
+2015-10,173161,0.04,2016_October_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=372160
+2015-11,235642,0.04,2016_November_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=377054
+2015-12,1525783,0.04,2016_December_YTD_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=378314
+2016-01,1587168,0.04,2017_January_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=380299
+2016-02,1644620,0.04,2017_February_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=382917
+2016-03,1895870,0.04,2017_March_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=401538
+2016-04,241871,0.04,2017_April_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=408065
+2016-05,100530,0.04,2017_May_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=417677
+2016-06,343751,0.04,2017_June_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=424375
+2016-07,588658,0.04,2017_July_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=427074
+2016-08,515421,0.04,2017_August_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=433752
+2016-09,316392,0.04,2017_September_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=451591
+2016-10,186714,0.04,2017_October_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=455773
+2016-11,222221,0.04,2017_November_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=463618
+2016-12,1547892,0.04,2017_December_YTD_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=465779
+2017-01,1588315,0.04,2018_January_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=470129
+2017-02,1621910,0.04,2018_February_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=480330
+2017-03,1568399,0.04,2018_March_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=483496
+2017-04,343723,0.04,2018_April_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=485686
+2017-05,110254,0.04,2018_May_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=489650
+2017-06,376820,0.04,2018_June_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=490808
+2017-07,649908,0.04,2018_July_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=493620
+2017-08,533777,0.04,2018_August_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=500177
+2017-09,343457,0.04,2018_September_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=512789
+2017-10,205377,0.04,2018_October_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=520893
+2017-11,247901,0.04,2018_November_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=525380
+2017-12,1423836,0.04,2018_December_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=528443
+2018-01,1484238,0.04,2019_January_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=544060
+2018-02,1653937,0.04,2019_February_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=547564
+2018-03,1740339,0.04,2019_Mar_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=551429
+2018-04,293254,0.04,2019_Apr_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=552643
+2018-05,151685,0.04,2019_May_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=558243
+2018-06,437401,0.04,2019_June_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=559407
+2018-07,712789,0.04,2019_July_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=560275
+2018-08,631273,0.04,2019_August_VBR,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=562585
+2018-09,400416,0.04,191203 Revenue Updates,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=612096
+2018-10,243589,0.04,200107 Revenue Updates,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=612097
+2018-11,295299,0.04,200204 Revenue Updates,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=612098
+2018-12,1482902,0.04,200303 Revenue Updates,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=612099
+2019-01,1721794,0.04,200407 Revenue Updates,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=612100
+2019-02,1817245,0.04,200505 Revenue Updates,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=612101
+2019-03,1801341,0.04,200602 Revenue Updates,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=612102
+2019-04,347446,0.04,200707 Revenue Updates,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=612103
+2019-05,141312,0.04,200804 Revenue Updates,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=612104
+2019-06,422783,0.04,200901 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=650709
+2019-07,758140,0.04,201006 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=652194
+2019-08,664523,0.04,201103 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=660084
+2019-09,440566,0.04,201201 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=668057
+2019-10,240953,0.04,210105 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=668149
+2019-11,280660,0.04,210202 Revenue Updates,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=680442
+2019-12,1592400,0.04,210302 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=688637
+2020-01,1657689,0.04,210406 Revenue Updates,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=689620
+2020-02,1854213,0.04,210504 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=702287
+2020-03,873849,0.04,210601 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=702286
+2020-04,22729,0.04,210706 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=706362
+2020-05,26747,0.04,210803 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=706363
+2020-06,194904,0.04,210907 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=717268
+2020-07,535886,0.04,211005 Revenue Updates,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=717269
+2020-08,532454,0.04,201103 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=660084
+2020-09,453198,0.04,211207 Revenue Updates,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=734545
+2020-10,330290,0.04,220104 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=753124
+2020-11,379207,0.04,220201 Revenue Updates,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=753125
+2020-12,1273587,0.04,220301 Revenue Updates,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=753126
+2021-01,1246417,0.04,210406 Revenue Updates,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=689620
+2021-02,1467593,0.04,220503 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=766138
+2021-03,1839516,0.04,220607 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=766136
+2021-04,473112,0.04,220705 Revenue Updates,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=766135
+2021-05,222396,0.04,220802 Revenue Updates,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=766134
+2021-06,641070,0.04,220906 Revenue Updates,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=775234
+2021-07,1143779,0.04,211005 Revenue Updates,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=717269
+2021-08,953924,0.04,221101 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=775233
+2021-09,707557,0.04,221206 Revenue Updates,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=782626
+2021-10,493601,0.04,230103 Revenue Updates,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=842430
+2021-11,577494,0.04,230207 Revenue Updates,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=842431
+2021-12,2489506,0.04,220301 Revenue Updates,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=753126
+2022-01,2674146,0.045,230404 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=851318
+2022-02,3023909,0.045,230502 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=851696
+2022-03,3141870,0.045,230606 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=855162
+2022-04,721997,0.045,230718 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=860033
+2022-05,273343,0.045,230801 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=909582
+2022-06,790562,0.045,230905 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=909581
+2022-07,1267414,0.045,231003 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=933248
+2022-08,1070426,0.045,231107 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=934303
+2022-09,798459,0.045,231205 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=946848
+2022-10,523304,0.045,240102 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=949344
+2022-11,580140,0.045,240206 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=962626
+2022-12,2515806,0.045,240305 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=969914
+2023-01,2922552,0.045,240402 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=998030
+2023-02,3180969,0.045,230502 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=851696
+2023-03,3080382,0.045,240507 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=1010023
+2023-04,681736,0.045,240604 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=1011717
+2023-05,241432,0.045,240702 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=1024281
+2023-06,760610,0.045,240806 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=1025719
+2023-07,1237827,0.045,240903 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=1027290
+2023-08,1029203,0.045,241001 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=1029431
+2023-09,791439,0.045,241105 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=1032246
+2023-10,467184,0.045,241203 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=1033204
+2023-11,570793,0.045,250107 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=1063728
+2023-12,2594683,0.045,250204 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=1068361
+2024-01,2941644,0.045,250304 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=1070706
+2024-02,3205109,0.045,250401 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=1070715
+2024-03,3215899,0.045,250505 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=1072883
+2024-04,520019,0.045,250603 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=1075090
+2024-05,271702,0.045,250701 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=1100246
+2024-06,754316,0.045,250805 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=1106687
+2024-07,1303556,0.045,250902 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=1112465
+2024-08,1114574,0.045,251007 Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=1119973
+2024-09,806506,0.045,251104 TOV Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=1124715
+2024-10,530213,0.045,251202 Town of Vail Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=1173298
+2024-11,603469,0.045,260106 Town of Vail Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=1180667
+2024-12,2667579,0.045,260203 Town of Vail Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=1206317
+2025-01,3036871,0.045,260303 Town of Vail Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=1214461
+2025-02,3237096,0.045,260407 Town of Vail Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=1238967
+2025-03,3011607,0.045,260505 Town of Vail Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=1246394
+2025-04,619926,0.045,260602 Town of Vail Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=1253582
+2025-05,235903,0.045,260707 Town of Vail Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=1274009
+2025-06,729354,0.045,260804 Town of Vail Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=1279355
+2025-07,1302342,0.045,260901 Town of Vail Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=1279356
+2025-08,1117581,0.045,261006 Town of Vail Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=1281170
+2025-09,753779,0.045,261103 Town of Vail Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=1283744
+2025-10,509876,0.045,251202 Town of Vail Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=1173298
+2025-11,599860,0.045,260106 Town of Vail Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=1180667
+2025-12,2500864,0.045,260203 Town of Vail Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=1206317
+2026-01,2640713,0.045,260303 Town of Vail Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=1214461
+2026-02,2814505,0.045,260407 Town of Vail Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=1238967
+2026-03,2636879,0.045,260505 Town of Vail Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=1246394
+2026-04,517251,0.045,260602 Town of Vail Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=1253582
+2026-05,236779,0.045,260707 Town of Vail Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=1274009
+2026-06,813927,0.045,260804 Town of Vail Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=1279355
+2026-07,1323695,0.045,260901 Town of Vail Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=1279356
+2026-08,1040142,0.045,261006 Town of Vail Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=1281170
+2026-09,808032,0.045,261103 Town of Vail Revenue Update,https://portal.laserfiche.com/Portal/DocView.aspx?repo=r-b2de7470&id=1283744
